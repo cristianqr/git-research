@@ -1,3 +1,3 @@
 ## Git Reseach
 
-This repository is to test git
+This repository is to test everything about git.
