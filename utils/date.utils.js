@@ -14,4 +14,8 @@ export class DateUtils {
   static static1() {
     return new Date().getMonth();
   }
+
+  static static2() {
+    return new Date().getMonth();
+  }
 }
