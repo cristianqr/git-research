@@ -7,7 +7,11 @@ export class DateUtils {
     return new Date().getFullYear();
   }
   
-  static getCurrentMonthNumber() {
+  static getCurrentMonth() {
+    return new Date().getMonth();
+  }
+
+  static static1() {
     return new Date().getMonth();
   }
 }
