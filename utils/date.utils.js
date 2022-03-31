@@ -6,4 +6,8 @@ export class DateUtils {
   static getCurrentYear() {
     return new Date().getFullYear();
   }
+  
+  static getCurrentMonth() {
+    return new Date().getMonth();
+  }
 }
